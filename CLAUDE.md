@@ -1,5 +1,5 @@
 # CLAUDE.md
-
+https://github.com/WarrenMondeville/unity-mcp.git#9.6.9
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## What This Project Is
